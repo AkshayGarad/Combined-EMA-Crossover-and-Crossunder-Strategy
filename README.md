@@ -1,0 +1,1 @@
+# Combined-EMA-Crossover-and-Crossunder-Strategy
